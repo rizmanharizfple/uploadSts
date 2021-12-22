@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/rizmanharizfple/uploadSts#readme",
   "dependencies": {
-    "aws-sdk": "^2.1048.0",
-    "nodemon": "^2.0.15"
+    "aws-sdk": "^2.1048.0"
   }
 }

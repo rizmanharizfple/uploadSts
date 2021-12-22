@@ -1,0 +1,24 @@
+{
+  "name": "uploadSts",
+  "version": "1.0.0",
+  "description": "quick server to directly upload file to sts, given the keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizmanharizfple/uploadSts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizmanharizfple/uploadSts/issues"
+  },
+  "homepage": "https://github.com/rizmanharizfple/uploadSts#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1048.0",
+    "nodemon": "^2.0.15"
+  }
+}
